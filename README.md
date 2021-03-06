@@ -5,3 +5,5 @@ part of the data:
 
 
 Data in csv is normalized for neural network.(1045 --> 0.1045)
+
+https://github.com/TestovironPowroci/neural-network-approximation
